@@ -1,2 +1,5 @@
 # Online-Intelligent-Restuarant
-This is an Online Restaurant  application which  allows consumer to  purchase meals based on ingredients used by the resturant
+
+Overview
+This web application is a brainchild aimed at bringing the cost of
+affordable price for third world countries like Nigeria, to boast the information awareness, about the ingredient that is used in making the menu. The web application also addresses the platform that enables the restaurant owners/merchants to register all the meals with respect to their culinary capacity. The restaurant owner setups the menus joined to their profiles. The consumer creates their profile with their addresses and search for meals or menus that have been created on the platform within the threshold distance or setup neighborhood based on the geographical location distance from the prospective consumer and the restaurant merchants. The web application would be deployed on IBM BlueMix when this would be created in Large Scale and the database would also be dashDB, an IBM flagship solution that exploits the brute force of parallelism (MPP)and columnar storage to salvage the ever growing data challenge. The mysql database is used to create this prototype. The express framework is use to implement the Model View Controller (MVC) architecture.
